@@ -1,0 +1,2 @@
+[17-Jan-2017 10:34:59 UTC] PHP Warning:  require_once(connectvars.php): failed to open stream: No such file or directory in /home/thetweaks/public_html/includes/sidebar_post.php on line 11
+[17-Jan-2017 10:34:59 UTC] PHP Fatal error:  require_once(): Failed opening required 'connectvars.php' (include_path='.;/path/to/php/pear') in /home/thetweaks/public_html/includes/sidebar_post.php on line 11

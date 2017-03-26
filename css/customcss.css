@@ -1,0 +1,44 @@
+.postwritten{
+	margin:0px;
+	
+}
+
+.postdate{
+	margin:0px;
+}
+.posttitle{
+	margin:0px;
+}
+#post-image{
+	    margin: 10px 0px;
+}
+.posttags{
+	color: #808080;margin:0px;
+}
+
+.content1{
+	  margin-top: 5px;
+}
+.postbutton{	
+    color: #7b7878;
+    font-size: 13px;
+    padding-left:10px;  
+}
+.postbutton a,.postsharebutton a{
+	cursor:pointer;
+	text-decoration:none;
+}
+.postsharebutton{	
+    color: #7b7878;
+    font-size: 5px;
+    text-align: right;
+    padding: 0;
+}
+.postbutton a:hover,.postsharebutton a:hover{
+	color:#ff8300;
+	
+}
+
+.commentpost{
+	padding: 7px 0px;
+}
