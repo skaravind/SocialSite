@@ -334,7 +334,7 @@
   </div><br>
 </div>
  <div class="text-center">
- <p>See everyone what's tweaking...</p>
+ <p>See everyone what's tweaking.....</p>
  <a href="signup.php"><button class="btn btn-default btn-lg">JOIN NOW</button></a>
 </div>
 <hr>
