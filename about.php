@@ -342,7 +342,7 @@
   <a href="#myPage" title="To Top">
     <span class="glyphicon glyphicon-chevron-up"></span>
   </a>
-  <p><a href="about.php">About</a>&nbsp; | &nbsp;<a href="contact.php">Contact</a> &nbsp;| &nbsp;<a href="contact.php">FAQ</a>&nbsp; |&nbsp; Thetweaks &copy; 2017</p>
+  <p><a href="about.php">About </a>&nbsp; | &nbsp;<a href="contact.php">Contact</a> &nbsp;| &nbsp;<a href="contact.php">FAQ</a>&nbsp; |&nbsp; Thetweaks &copy; 2017</p>
 </footer>
 
 <script>
